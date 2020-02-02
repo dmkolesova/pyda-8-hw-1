@@ -1,0 +1,30 @@
+[33mcommit 2d27f63c4e5e80edbb191fb2729d8bffaae9a9b1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Daria Kolesova <dusikjuk@yandex.ru>
+Date:   Sun Feb 2 12:57:35 2020 +0300
+
+    new file master.txt
+
+[33mcommit a0c24f7a5a0e0d5942d820660e2456655d6280df[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mhotfix[m[33m)[m
+Merge: b6ae304 a1d385c
+Author: Daria Kolesova <dusikjuk@yandex.ru>
+Date:   Sun Feb 2 12:47:47 2020 +0300
+
+    Merge branch 'master' of https://github.com/dmkolesova/pyda-8-hw-1
+
+[33mcommit b6ae304205852f987fb2345d5609f5f8afd3ca63[m
+Author: Daria Kolesova <dusikjuk@yandex.ru>
+Date:   Sun Feb 2 12:29:40 2020 +0300
+
+    production file creation
+
+[33mcommit a1d385cbca03e228eafe3db42888d4eb7d28e45c[m
+Author: dmkolesova <60538827+dmkolesova@users.noreply.github.com>
+Date:   Sun Feb 2 12:26:01 2020 +0300
+
+    Create blank.yml
+
+[33mcommit 53018c005af50c16d5fb666c30157dbee56fa41b[m
+Author: Daria Kolesova <dusikjuk@yandex.ru>
+Date:   Sat Feb 1 12:18:19 2020 +0300
+
+    first commit
